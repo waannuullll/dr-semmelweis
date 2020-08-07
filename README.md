@@ -1,6 +1,6 @@
 # dr-semmelweis
 Proyek ini berjudul "Dr. Semmelweis and the Discovery of Handwashing", merupakan salah satu Premium Project dalam Data Scientist Career Track oleh DataCamp.
-Data kasar yang digunakan diambil dari publikasi Semmelweis. Proyek ini akan membahas salah satu peristiwa yang dialami oleh Dr. Semmelweis pada tahun 1840 ketika terdapat 10% kematian ibu yang melahirkan di Rumah Sakit Umum Vienna, childbed fever.
+Data mentah yang digunakan diambil dari publikasi Semmelweis. Proyek ini akan membahas salah satu peristiwa yang dialami oleh Dr. Semmelweis pada tahun 1840 ketika terdapat 10% kematian ibu yang melahirkan di Rumah Sakit Umum Vienna, childbed fever.
 Dari dua klinik yang dibandingkan, di mana salah satu klinik diurusi oleh mahasiswa kedokteran yang juga menangani mayat di ruang otopsi dan klinik lainnya diurusi sukarelawan lain, diperoleh hasil bahwa kematian ibu yang melahirkan lebih banyak ditemui di klinik yang diurusi oleh mahasiswa kedokteran.
 Pada saat itu belum dikenal bakteri, oleh karena itu dari kejadian tersebut Dr. Semmelweis menyarankan semua untuk mencuci tangan terlebih dahulu sebelum membantu proses kelahiran.
 Dengan mencuci tangan, angka rasio kematian ibu terhadap kelahiran anak menurun drastis, yaitu sekitar 6.7 - 10%, dengan menggunakan analisis Bootstrap.
