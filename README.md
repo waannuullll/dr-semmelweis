@@ -8,3 +8,5 @@ Dengan mencuci tangan, angka rasio kematian ibu terhadap kelahiran anak menurun 
 Traginya adalah bahwa, terlepas dari bukti yang terjadi, teori Semmelweis - bahwa childbed fever disebabkan oleh beberapa "substansi" (yang sekarang kita kenal sebagai bakteri) dari mayat ruang otopsi - diejek oleh para ilmuwan kontemporer. Komunitas medis sebagian besar menolak penemuannya dan pada tahun 1849 dia terpaksa meninggalkan Rumah Sakit Umum Wina untuk selamanya.
 
 Salah satu alasan untuk ini adalah bahwa statistik dan argumen statistik tidak umum dalam ilmu kedokteran pada tahun 1800-an. Semmelweis hanya mempublikasikan datanya sebagai tabel panjang data mentah, tetapi dia tidak menampilkan grafik atau interval kepercayaan. Jika dia memiliki akses ke analisis yang baru saja kita kumpulkan, dia mungkin bisa membuat para dokter Wina mencuci tangan.
+
+File dalam Jupyter Notebook tersedia di halaman utama. Data yang diperlukan tersedia dalam folder datasets.
